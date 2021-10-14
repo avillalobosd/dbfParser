@@ -1,0 +1,20 @@
+{
+  "name": "dbf-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dbfstream": "^1.0.25",
+    "esm": "^3.2.25",
+    "loader": "^2.1.1",
+    "node-dbf": "^0.4.0",
+    "sqlite": "^4.0.14",
+    "sqlite3": "^5.0.0"
+  }
+}
